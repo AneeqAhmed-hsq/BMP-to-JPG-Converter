@@ -1,0 +1,1 @@
+# BMP-to-JPG-Converter
